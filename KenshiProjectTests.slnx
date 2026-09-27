@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../KenshiCore/KenshiCore.csproj" />
+  <Project Path="KenshiProjectTests/KenshiProjectTests.csproj" />
+</Solution>
